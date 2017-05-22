@@ -1,6 +1,6 @@
 # BureaucratRuby
 
-Validate Argentine CBUs and CUITs
+Validate Argentine CBUs and CUIT codes.
 
 ## Installation
 

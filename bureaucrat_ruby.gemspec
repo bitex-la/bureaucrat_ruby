@@ -9,9 +9,10 @@ Gem::Specification.new do |spec|
   spec.authors       = ["nubis"]
   spec.email         = ["yo@nubis.im"]
 
-  spec.summary       = %q{Ruby Bindings for the Bureaucrat validator library.
+  spec.summary       = %q{Validate argentine CBU and CUIT codes in ruby
   See https://github.com/bitex-la/bureaucrat
   }
+  spec.homepage      = "https://github.com/bitex-la/bureaucrat_ruby"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
